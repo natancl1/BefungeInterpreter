@@ -1,4 +1,4 @@
-# BefungeIntepreter by Ben Myers
+# BefungeIntepreter by Ben Myers (and Modified by Me)
 
 ### About Befunge
 
