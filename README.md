@@ -46,15 +46,3 @@ v  ,,,,,"Hello"<
 v,,,,,,"World!"<
 >25*,@
 ```
-
-### TODO:
-
-- Implement Funge-98 specifications
-
-    - Dynamic grid sizing
-
-    - The `[` ("turn left") and `]` ("turn right") instructions
-
-    - User should be able to specify Befunge-93 or Funge-98
-
-- Implement GUI
